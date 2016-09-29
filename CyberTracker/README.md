@@ -23,9 +23,9 @@ You can create your own applications and record your own tracks and enjoy the ou
 
 Some images
 
-![Design ](img/screen01.jpg?raw=true "The Application"){: height="36px" width="36px"}
+<img src="img/screen01.jpg" width="400" alt="Design Environment">
 
-![GIS](img/screen02.jpg?raw=true "Display Maps")
+<img src="img/screen02.jpg" width="400" alt="Map viewing">
 
 
 
