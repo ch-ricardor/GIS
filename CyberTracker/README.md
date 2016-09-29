@@ -1,6 +1,6 @@
 # GIS Cybertracker
 
-I found this application thanks to Dr. Todd Bacastow, in his course of GeoIntelligence.
+I found this application thanks to Dr. Todd Bacastow, in his course of Geo-Intelligence.
 
 This is the reference to the Cybertracker site. It is not only software, it contains a lot of _"Humanware"_
 
