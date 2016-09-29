@@ -17,6 +17,8 @@ You will find very interesting readings
 
 *I used this software to track in the canton of Geneva fishing activity.*
 
+To use it, you need to download the "Software" from the Cybertracker site and then you can add this application.
+
 You can create your own applications and record your own tracks and enjoy the outdoors.
 
 
