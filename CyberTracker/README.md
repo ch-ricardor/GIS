@@ -9,7 +9,9 @@ This is the reference to the Cybertracker site. It is not only software, it cont
 
 ### The Origin of Science
 
-<a href="http://www.cybertracker.org/" target="_blank">New Tab</a>
+<a href="http://www.cybertracker.org/" target="_blank">CyberTracker</a>
+
+[CyberTracker](http://www.cybertracker.org/){:target="_blank"}
 
 CyberTracker has grown from a simple hypothesis: The art of tracking may have been the origin of science. Science may have evolved more than a hundred thousand years ago with the evolution of modern hunter-gatherers. Scientific reasoning may therefore be an innate ability of the human mind. This may have far-reaching implications for indigenous knowledge, self-education and citizen science.
 
