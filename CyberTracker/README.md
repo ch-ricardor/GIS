@@ -2,7 +2,7 @@
 
 I found this application thanks to Dr. Todd Bacastow, in his course of GeoIntelligence.
 
-This is a reference to the site.
+This is the reference to the Cybertracker site. It is not only software, it contains a lot of _"Humanware"_
 
 
 ### By Louis Liebenberg
