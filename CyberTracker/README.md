@@ -23,7 +23,7 @@ You can create your own applications and record your own tracks and enjoy the ou
 
 Some images
 
-![Design ](img/screen01.jpg?raw=true "The Application")
+![Design ](img/screen01.jpg?raw=true "The Application" =250x)
 
 ![GIS](img/screen02.jpg?raw=true "Display Maps")
 
