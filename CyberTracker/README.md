@@ -23,9 +23,9 @@ You can create your own applications and record your own tracks and enjoy the ou
 
 Some images
 
-![Alt text](img/screen01.jpg?raw=true "Valid document")
+![Design ](img/screen01.jpg?raw=true "The Application")
 
-![Alt text](img/screen02.jpg?raw=true "Valid document")
+![GIS](img/screen02.jpg?raw=true "Display Maps")
 
 
 
